@@ -1,0 +1,22 @@
+h1{
+    color: rgb(119, 0, 255);
+    text-align: center;
+    
+}
+h3{
+    color:blue;
+    margin-left: 50px;
+}
+.image{
+    margin: 50px;
+    text-align: center;
+
+}
+.paragraph{
+    
+    margin: 50px 40px;
+    padding: 7px;
+    box-shadow: 100px;
+    background-color: aqua;
+    border: black;
+}
